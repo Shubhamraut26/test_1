@@ -1,5 +1,6 @@
 class Student{
 	public static void main(String[] args){
-		System.out.println("Hello Shubham...!");
+		String str = "My name is Shubham";
+		System.out.println(str);
 	}
 }
